@@ -47,3 +47,13 @@ Python is a common language used for data science purposes. Many of you already 
 In the video lectures in this module, we discussed the Union join. However we didn’t go into detail regarding the differences between Union and Union all. Please read the following article for further explanation regarding the differences and performance of the two joins.
 
 - [Difference Between Union and Union All - Optimal Performance Comparison](https://blog.sqlauthority.com/2009/03/11/sql-server-difference-between-union-vs-union-all-optimal-performance-comparison/)
+
+## Additional SQL Resources to Explore
+
+Haven’t had enough SQL? Or do you want to keep practicing to improve your skills? SQL puzzles are a great way to do this! Below is one of my favorite resources for practicing SQL Puzzles. I use it all the time.
+
+- [SQL Authority: SQL Puzzles](https://blog.sqlauthority.com/category/sql-puzzle/)
+
+In addition, many of you may be taking this class with a desire to get a new job or position. Below is a resource that includes quizzes and is recommended by many recruiters to practice SQL for a data science interview.
+
+- [SQLZOO](http://sqlzoo.net/)

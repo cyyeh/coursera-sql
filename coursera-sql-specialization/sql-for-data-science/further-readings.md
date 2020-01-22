@@ -35,3 +35,15 @@ In this class we’ve gone over relational databases and how SQL is used to retr
   - [Documentation](https://cwiki.apache.org/confluence/display/Hive/LanguageManual)
 - SQL for Python
   - [Python-SQL Package Documentation](https://pypi.python.org/pypi/python-sql)
+
+## SQL and Python
+
+Python is a common language used for data science purposes. Many of you already know python or will soon be working in python. The following article goes over some of the differences in thinking between python and SQL.
+
+- [Thinking in SQL vs Thinking in Python](https://blog.modeanalytics.com/learning-python-sql/)
+
+## UNION and UNION ALL
+
+In the video lectures in this module, we discussed the Union join. However we didn’t go into detail regarding the differences between Union and Union all. Please read the following article for further explanation regarding the differences and performance of the two joins.
+
+- [Difference Between Union and Union All - Optimal Performance Comparison](https://blog.sqlauthority.com/2009/03/11/sql-server-difference-between-union-vs-union-all-optimal-performance-comparison/)
